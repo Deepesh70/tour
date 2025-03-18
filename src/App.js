@@ -1,14 +1,16 @@
 // src/App.js
-import YatraSignup from './YatraSignup';
+import HomePage from './HomePage';
+
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import HomePage from './HomePage';
+
 import Explore from './Explore'; // Create these components
 import Flights from './Flights';
 import Hotels from './Hotels';
 import Trains from './Trains';
 import Taxis from './Taxis';
 import Rentals from './Rentals';
+import YatraSignup from './YatraSignup';
 import './App.css';
 
 function App() {
