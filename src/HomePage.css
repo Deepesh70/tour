@@ -61,12 +61,12 @@ body {
     color: #4CAF50;
   }
   
-  /* Header */
+  
   .header {
     background: rgba(0, 0, 0, 0.6);
     padding: 20px;
     border-radius: 10px;
-    margin-top: 80px; /* Adjust for fixed navbar */
+    margin-top: 80px;
     margin-bottom: 30px;
     animation: fadeInDown 1s ease-out;
   }
