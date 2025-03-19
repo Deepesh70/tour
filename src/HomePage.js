@@ -36,7 +36,7 @@ const HomePage = () => {
 
         <div className="service-card" onClick={() => alert('Flight Booking clicked!')}>
           <h2>Flight Booking</h2>
-          <p>Book your flights to any destination</p>
+          <p>Book your flight to any destination</p>
         </div>
 
         <div className="service-card" onClick={() => alert('Hotel Booking clicked!')}>
